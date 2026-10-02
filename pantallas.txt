@@ -7,3 +7,5 @@ modificación por gio ej7
 
 aca hay una pantallas
 parent of 203dd6e (reporte de observasiones)
+
+linea ej10 gio
